@@ -135,3 +135,6 @@ The implemented CNN model based on Resnet50 was able to acheive a classification
 
 ## Acknowledgement
 This project is based on a project template provided by Udacity's Data Scientist Nanodegree program. Some of the included neural network models are based on the VGG16 and Resnet50 projects.
+
+## More information
+for more information, refer to [this blog post](https://abdelrahman-hefny.medium.com/building-a-dog-breed-classifier-using-transfer-learning-in-python-6cdd5f4d6ac8).
